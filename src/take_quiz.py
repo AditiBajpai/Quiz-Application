@@ -78,14 +78,6 @@ class TakeQuiz:
         self.saveResult(record)
 
 
-
-
-
-
-
-
-
-
     def run(self):
         choice = None
         while True:
