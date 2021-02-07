@@ -8,17 +8,17 @@ class Questions:
         self.option4=op4
         self.answer = ans
         self.question = question
-        self.q_id = self.create_question_id(self,diff,id)
+        self.q_id = self.create_question_id(diff,id)
 
     def create_question_id(self,diff,id):
         q_id = None
         if diff.lower() == 'easy':
-            qid = Settings.EASY_QID+str(id)
+            q_id = Settings.EASY_QID+str(id)
 
         elif diff.lower() == 'hard':
             qid = Settings.HARD_QID+str(id)
 
         elif diff.lower() == 'medium':
-            qid = Settings.MEDIUM_QID+str(id)
+            q_id = Settings.MEDIUM_QID+str(id)
 
         return q_id

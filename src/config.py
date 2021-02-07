@@ -3,7 +3,7 @@ class Settings:
     USERNAME = "aditi"
     PASSWORD = "aditi123"
     ADMIN_NAME = "aditi"
-    ADMIN_Password = "aditi@123"
+    ADMIN_PASSWORD = "aditi@123"
     PORT = 3306
     TABLE_EASY = "easy_quiz_table"
     TABLE_MEDIUM = "medium_quiz_table"

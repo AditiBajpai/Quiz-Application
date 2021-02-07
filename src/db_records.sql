@@ -18,5 +18,5 @@ INSERT INTO hard_quiz_table(`question_id`,`questions`,`option1`,`option2`,`optio
 ("H0_1","The hottest planet in the solar system?","Jupiter","Mars","Mercury","Venus","Venus"),
 ("H0_2", "Where was electricity supply first intriduced in India?", "Darjeeling","Dehradun","Mumbai","Pune","Darjeeling"),
 ("H0_3","Which peninsular river is least seasonal in flow?", "Narmada","Krishna","Godavari","Cauvery","Godavari"),
-("H0_4","Guwahati High Court is the judicature of?", "Assam","Nagaland","Arunachal Pradesh","All of the Above"),
+("H0_4","Guwahati High Court is the judicature of?", "Assam","Nagaland","Arunachal Pradesh","All of the Above","All of the Above"),
 ("H0_5", "First China War was fought between?","China and Egypt","China and Greek","China and Britain","China and France","China and Britain");
